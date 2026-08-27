@@ -1,0 +1,15 @@
+{
+  "rows_before": 606,
+  "duplicates_removed": 5,
+  "invalid_distance_fixed": 5,
+  "weight_sensor_glitches_fixed": 4,
+  "missing_values_before": {
+    "package_weight_kg": 28,
+    "driver_experience_years": 18,
+    "distance_km": 5,
+    "cost_inr": 12
+  },
+  "delivery_time_outliers_capped": 23,
+  "rows_after": 601,
+  "nulls_after": 0
+}
